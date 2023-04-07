@@ -2,5 +2,5 @@
     "name": "Ayang",
     "greetingText": "Happy Birthday!",
     "wishText": "Matahariku yang selalu menyinari hari hari ku🤍🤍",
-    "imagePath": "/img/mar.png"
+    "imagePath": "./img/mar.png"
 }
